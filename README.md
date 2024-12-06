@@ -68,8 +68,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kalebmacedo/kalebmacedo/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h2></h2>
+  <br>
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/artrsousa1/artrsousa1/output/github-contribution-grid-snake-dark.svg" />
+  <br/><br/><br/>
+</div>
 
 ###
