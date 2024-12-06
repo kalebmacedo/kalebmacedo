@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kalebmacedo/kalebmacedo/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/artrsousa1/artrsousa1/output/github-contribution-grid-snake-dark.svg" />
 
 ###
 
