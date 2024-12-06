@@ -4,32 +4,50 @@
 
 ###
 
-<p align="left">-> Young, methodical and practical, with strong organizational skills and attention to detail.</p>
+<h3 align="left">--> Young, methodical and practical, with a strong capacity for and attention to detail. <br><br>--> I am punctual, proactive and committed to carrying out tasks, always seeking to optimize processes and achieve efficient results.<br><br>--> I value teamwork and cordial communication, adapting quickly to different environments and challenges. <br><br>--> I have good time management skills, which allows me to meet deadlines and deliver projects consistently and with quality.</h3>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalebmacedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=Kaleb%20de%20Souza%20Macedo's%20GitHub" height="162" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=kalebmacedo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=6" height="154" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebmacedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&custom_title=Tec " height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebmacedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&custom_title=Technology" height="140" alt="languages graph"  />
 </div>
 
 ###
 
+<h2 align="center">Tec</h2>
+
+###
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="31" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="31" alt="c logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="31" alt="python logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="31" alt="java logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="31" alt="react logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="31" alt="github logo"  />
+</div>
+
+###
+
+<h2 align="center">Currently learning</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
@@ -52,16 +70,6 @@
 
 <br clear="both">
 
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/artrsousa1/artrsousa1/output/github-contribution-grid-snake-dark.svg" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/22wmra6jmokeanetwvyrquepq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kaleb&count=5&unique=true" alt="Spotify"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/kalebmacedo/kalebmacedo/output/snake.svg" alt="Snake animation" />
 
 ###
