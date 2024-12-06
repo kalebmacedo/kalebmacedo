@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kalebmacedo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=Kaleb%20de%20Souza%20Macedo's%20GitHub" height="162" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=kalebmacedo&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=6" height="154" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebmacedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&custom_title=Tec" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalebmacedo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&custom_title=Technologies " height="140" alt="languages graph"  />
 </div>
 
 ###
